@@ -2,6 +2,7 @@
 
 A Python-based AI workout assistant that uses computer vision to track basic exercises like squats and push-ups using a webcam. It counts repetitions, gives voice feedback, and stores workout history for later review.
 
+
 🚀 Features
 🎥 Real-time webcam tracking using OpenCV
 🤖 Pose detection powered by MediaPipe
